@@ -1,0 +1,5 @@
+{
+    "require": {     
+        "Phonads/Phonads": "1.0.4"
+    }
+}
